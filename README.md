@@ -107,7 +107,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created by SUDHEER176
+Created by M Mokshagna
 
 ---
 
